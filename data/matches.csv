@@ -1,0 +1,15 @@
+match_id,home,away,p3,p1,p0,odds3,odds1,odds0,manual_lock,manual_exclude
+1,France,Norway,0.72,0.18,0.10,1.45,4.20,7.50,3,0
+2,Brazil,Japan,0.92,0.05,0.03,1.18,6.50,13.00,,0
+3,England,Ghana,0.68,0.20,0.12,1.52,3.90,6.80,,0
+4,Spain,Canada,0.62,0.23,0.15,1.65,3.60,5.80,,0
+5,Germany,USA,0.58,0.24,0.18,1.78,3.45,4.90,,0
+6,Argentina,South Korea,0.66,0.21,0.13,1.55,3.85,6.40,,0
+7,Netherlands,Mexico,0.50,0.27,0.23,2.05,3.25,3.70,,0
+8,Portugal,Morocco,0.57,0.25,0.18,1.82,3.35,4.60,,0
+9,Italy,Switzerland,0.45,0.30,0.25,2.25,3.10,3.20,,0
+10,Belgium,Denmark,0.48,0.28,0.24,2.10,3.20,3.45,,0
+11,Uruguay,Senegal,0.42,0.29,0.29,2.40,3.05,3.05,,0
+12,Croatia,Poland,0.44,0.30,0.26,2.30,3.05,3.30,,0
+13,Colombia,Australia,0.53,0.26,0.21,1.95,3.25,4.10,,0
+14,Sweden,Serbia,0.39,0.31,0.30,2.65,3.00,2.95,,0
